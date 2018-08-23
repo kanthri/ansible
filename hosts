@@ -1,0 +1,2 @@
+[sanat]
+localhost ansible_connection=local
